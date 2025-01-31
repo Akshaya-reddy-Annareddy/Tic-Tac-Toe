@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+This Tic Tac Toe game in Java allows a user to play against the computer, where the user plays as 'X' and the computer as 'O'. The game board is displayed, and players take turns placing their marks until someone wins or the board is full. The program checks for a winning condition after each move and announces the result. After a game ends, the user can choose to play again or exit.
